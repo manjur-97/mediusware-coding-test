@@ -10,6 +10,7 @@
                 <th>User Name</th>
                 <th>Amount</th>
                 <th>Transaction Type</th>
+                <th>Fee</th>
                 <th>Date</th>
             </tr>
         </thead>
@@ -19,6 +20,7 @@
                     <td>{{ $withdrawal->user->name }}</td>
                     <td>{{ $withdrawal->amount }}</td>
                     <td>{{ $withdrawal->transaction_type }}</td>
+                    <td>{{ $withdrawal->fee }}</td>
                     <td>{{ $withdrawal->date }}</td>
                 </tr>
             @endforeach
