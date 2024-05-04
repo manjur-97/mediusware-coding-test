@@ -19,7 +19,8 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #82c7f5;">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #c8e3f5;">
+        
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><svg data-v-5a15c7c8="" xmlns="http://www.w3.org/2000/svg"
                     width="167" height="47" viewBox="0 0 167 47" fill="none">
